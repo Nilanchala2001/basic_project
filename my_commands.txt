@@ -1,0 +1,331 @@
+    1  [200~chmod 400 "psa_nila_details.pem"~
+    2  ssh -i "psa_nila_details.pem" ec2-user@ec2-13-62-104-130.eu-north-1.compute.amazonaws.com
+    3  clr
+    4  [200~^[[200~chmod 400 "psa_nila_details.pem"~
+    5  chmod 400 "psa_nila_details.pem"
+    6  ssh -i "psa_nila_details.pem" ec2-user@ec2-13-62-104-130.eu-north-1.compute.amazonaws.com
+    7  [200~ssh -i "psa_nila_details.pem" ec2-user@ec2-16-171-194-6.eu-north-1.compute.amazonaws.com~
+    8  chmod 400 "psa_nila_details.pem"
+    9  ssh -i "psa_nila_details.pem" ec2-user@ec2-16-171-194-6.eu-north-1.compute.amazonaws.com
+   10  chmod 400 "psa_nila_details.pem"
+   11  ssh -i "psa_nila_details.pem" ec2-user@ec2-16-171-194-6.eu-north-1.compute.amazonaws.com
+   12  ec2-16-171-194-6.eu-north-1.compute.amazonaws.com
+   13  chmod 400 "psa_nila_details.pem"
+   14  ssh -i "psa_nila_details.pem" ec2-user@ec2-16-171-194-6.eu-north-1.compute.amazonaws.com
+   15  chmod 400 "psa_nila_details.pem"
+   16  ssh -i "psa_nila_details.pem" ec2-user@ec2-16-171-194-6.eu-north-1.compute.amazonaws.com
+   17  ssh -i "psa_nila_details.pem" ec2-user@ec2-13-60-195-91.eu-north-1.compute.amazonaws.com
+   18  ssh -i "psa_nila_details.pem" ec2-user@ec2-13-60-195-91.eu-north-1.compute.amazonaws.com
+   19  ssh -i "psa_nila_details.pem" ec2-user@ec2-13-60-74-120.eu-north-1.compute.amazonaws.com
+   20  ssh -i "psa_nila_details.pem" ec2-user@ec2-16-171-195-130.eu-north-1.compute.amazonaws.com
+   21  ssh -i "psa_nila_details.pem" ec2-user@ec2-16-171-195-130.eu-north-1.compute.amazonaws.com
+   22  ssh -i "psa_nila_details.pem" ec2-user@ec2-16-171-195-130.eu-north-1.compute.amazonaws.com
+   23  ssh -i "psa_nila_details.pem" ec2-user@ec2-13-62-100-184.eu-north-1.compute.amazonaws.com
+   24  ssh -i "psa_nila_details.pem" ec2-user@ec2-13-62-100-184.eu-north-1.compute.amazonaws.com
+   25  ssh raju@13.62.100.184
+   26  ssh raju@13.62.100.184
+   27  ssh -i "psa_nila_details.pem" ec2-user@ec2-13-62-100-184.eu-north-1.compute.amazonaws.com
+   28  chmod 400 "NILA_PSA.pem"
+   29  ssh -i "NILA_PSA.pem" ec2-user@ec2-13-218-107-26.compute-1.amazonaws.com
+   30  chmod 400 "NILA_PSA_S.pem"
+   31  ssh -i "NILA_PSA_S.pem" ec2-user@ec2-3-6-38-156.ap-south-1.compute.amazonaws.com
+   32  [200~ssh -i "NILA_PSA_S.pem" ec2-user@ec2-3-6-38-156.ap-south-1.compute.amazonaws.com~
+   33  chmod 400 "NILA_PSA_S.pem"
+   34  ssh -i "NILA_PSA_S.pem" ec2-user@ec2-3-6-38-156.ap-south-1.compute.amazonaws.com
+   35  ssh -i "NILA_PSA_S.pem" ec2-user@ec2-3-6-38-156.ap-south-1.compute.amazonaws.com
+   36  ssh -i "NILA_PSA_S.pem" ec2-user@ec2-3-6-38-156.ap-south-1.compute.amazonaws.com
+   37  chmod 400 "NILA_PSA_S.pem"
+   38  ssh -i "NILA_PSA_S.pem" ec2-user@ec2-3-6-38-156.ap-south-1.compute.amazonaws.com
+   39  ssh -i "NILA_PSA_S.pem" ec2-user@ec2-3-6-38-156.ap-south-1.compute.amazonaws.com
+   40  ssh -i "NILA_PSA_S.pem" ec2-user@ec2-3-6-38-156.ap-south-1.compute.amazonaws.com
+   41  chmod 400 "NILA_PSA_S.pem"
+   42  ssh -i "NILA_PSA_S.pem" ec2-user@ec2-3-6-38-156.ap-south-1.compute.amazonaws.com
+   43  chmod 400 "NILA_PSA_S.pem"
+   44  ssh -i "NILA_PSA_S.pem" ec2-user@ec2-3-6-38-156.ap-south-1.compute.amazonaws.com
+   45  chmod 400 "Subha_PSA.pem"
+   46  ssh -i "Subha_PSA.pem" ec2-user@ec2-3-110-161-140.ap-south-1.compute.amazonaws.com
+   47  ssh -i "Subha_PSA.pem" ec2-user@ec2-3-110-161-140.ap-south-1.compute.amazonaws.com
+   48  chmod 400 "NILA_PSA_S.pem"
+   49  ssh -i "NILA_PSA_S.pem" ec2-user@ec2-65-0-4-66.ap-south-1.compute.amazonaws.com
+   50  chmod 400 "Bishnu_PSA.pem"
+   51  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-13-127-241-219.ap-south-1.compute.amazonaws.com
+   52  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-13-127-241-219.ap-south-1.compute.amazonaws.com
+   53  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-13-127-241-219.ap-south-1.compute.amazonaws.com
+   54  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-13-127-241-219.ap-south-1.compute.amazonaws.com
+   55  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-13-127-241-219.ap-south-1.compute.amazonaws.com
+   56  chmod 400 "Bishnu_PSA.pem"
+   57  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-35-154-150-20.ap-south-1.compute.amazonaws.com
+   58  chmod 400 "Bishnu_PSA.pem"
+   59  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-15-206-73-29.ap-south-1.compute.amazonaws.com
+   60  chmod 400 "Bishnu_PSA.pem"
+   61  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-13-127-69-79.ap-south-1.compute.amazonaws.com
+   62  chmod 400 "Bishnu_PSA.pem"
+   63  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-13-127-63-237.ap-south-1.compute.amazonaws.com
+   64  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-13-127-63-237.ap-south-1.compute.amazonaws.com
+   65  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-13-127-63-237.ap-south-1.compute.amazonaws.com
+   66  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-13-127-63-237.ap-south-1.compute.amazonaws.com
+   67  chmod 400 "Bishnu_PSA.pem"
+   68  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-13-126-17-209.ap-south-1.compute.amazonaws.com
+   69  chmod 400 "Bishnu_PSA.pem"
+   70  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-65-1-114-127.ap-south-1.compute.amazonaws.com
+   71  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-65-1-114-127.ap-south-1.compute.amazonaws.com
+   72  ssh -i "Bishnu_PSA.pem" ec2-user@ec2-65-1-114-127.ap-south-1.compute.amazonaws.com
+   73  chmod 400 "Neel_PSA.pem"
+   74  ssh -i "Neel_PSA.pem" ec2-user@ec2-15-206-70-58.ap-south-1.compute.amazonaws.com
+   75  ssh -i "Neel_PSA.pem" ec2-user@ec2-15-206-70-58.ap-south-1.compute.amazonaws.com
+   76  ssh -i "Neel_PSA.pem" ec2-user@ec2-15-206-70-58.ap-south-1.compute.amazonaws.com
+   77  chmod 400 "Neel_PSA.pem"
+   78  ssh -i "Neel_PSA.pem" ec2-user@ec2-15-206-70-58.ap-south-1.compute.amazonaws.com
+   79  chmod 400 "Neel_PSA.pem"
+   80  ssh -i "Neel_PSA.pem" ec2-user@ec2-15-206-70-58.ap-south-1.compute.amazonaws.com
+   81  chmod 400 "Neel_PSA.pem"
+   82  ssh -i "Neel_PSA.pem" ec2-user@ec2-13-235-31-149.ap-south-1.compute.amazonaws.com
+   83  ssh -i "Neel_PSA.pem" ec2-user@ec2-13-235-31-149.ap-south-1.compute.amazonaws.com
+   84  ssh -i "Neel_PSA.pem" ec2-user@ec2-13-235-31-149.ap-south-1.compute.amazonaws.com
+   85  ssh -i "Neel_PSA.pem" ec2-user@ec2-13-235-31-149.ap-south-1.compute.amazonaws.com
+   86  [200~ssh -i "Neel_PSA.pem" ec2-user@ec2-13-235-31-149.ap-south-1.compute.amazonaws.com~
+   87  ssh -i "Neel_PSA.pem" ec2-user@ec2-13-235-31-149.ap-south-1.compute.amazonaws.com
+   88  chmod 400 "Neel_PSA.pem"
+   89  ssh -i "Neel_PSA.pem" ec2-user@ec2-15-206-79-21.ap-south-1.compute.amazonaws.com
+   90  ssh -i "Neel_PSA.pem" ec2-user@ec2-15-206-79-21.ap-south-1.compute.amazonaws.com
+   91  ssh -i "Neel_PSA.pem" ec2-user@ec2-15-206-79-21.ap-south-1.compute.amazonaws.com
+   92  ssh -i "Neel_PSA.pem" ec2-user@ec2-15-206-79-21.ap-south-1.compute.amazonaws.com
+   93  ssh -i "Neel_PSA.pem" ec2-user@ec2-15-206-79-21.ap-south-1.compute.amazonaws.com
+   94  ssh -i "Neel_PSA.pem" ec2-user@ec2-15-206-79-21.ap-south-1.compute.amazonaws.com
+   95  chmod 400 "Sibani_PS.pem"
+   96  ssh -i "Sibani_PS.pem" ec2-user@ec2-15-206-79-181.ap-south-1.compute.amazonaws.com
+   97  chmod 400 "Sibani_PS.pem"
+   98  ssh -i "Sibani_PS.pem" ec2-user@ec2-13-232-48-149.ap-south-1.compute.amazonaws.com
+   99  ssh -i "Sibani_PS.pem" ec2-user@ec2-13-232-48-149.ap-south-1.compute.amazonaws.com
+  100  ssh -i "Sibani_PS.pem" ec2-user@ec2-13-232-48-149.ap-south-1.compute.amazonaws.com
+  101  chmod 400 "FINAL_LINUX.pem"
+  102  ssh -i "FINAL_LINUX.pem" ec2-user@ec2-13-127-46-213.ap-south-1.compute.amazonaws.com
+  103  chmod 400 "FINAL_LINUX.pem"
+  104  ssh -i "FINAL_LINUX.pem" ec2-user@ec2-13-127-46-213.ap-south-1.compute.amazonaws.com
+  105  ssh -i "FINAL_LINUX.pem" ec2-user@ec2-13-127-46-213.ap-south-1.compute.amazonaws.com
+  106  chmod 400 "Sibani_PS.pem"
+  107  ssh -i "Sibani_PS.pem" ec2-user@ec2-13-126-126-9.ap-south-1.compute.amazonaws.com
+  108  ssh -i "Sibani_PS.pem" ec2-user@ec2-13-126-126-9.ap-south-1.compute.amazonaws.com
+  109  chmod 400 "Devops_session.pem"
+  110  ssh -i "Devops_session.pem" ec2-user@ec2-15-206-70-192.ap-south-1.compute.amazonaws.com
+  111  chmod 400 "Devops_session.pem"
+  112  ssh -i "Devops_session.pem" ec2-user@ec2-15-206-70-192.ap-south-1.compute.amazonaws.com
+  113  chmod 400 "Sibani_PS.pem"
+  114  ssh -i "Sibani_PS.pem" ec2-user@ec2-13-233-0-174.ap-south-1.compute.amazonaws.com
+  115  ssh -i "Sibani_PS.pem" ec2-user@ec2-13-233-0-174.ap-south-1.compute.amazonaws.com
+  116  git config --global user.name "Nilanchala"
+  117  git config --global user.email "nilanchalanahak97@gmail.com"
+  118  echo "# sbi_loans_apps" >> README.md
+  119  git init
+  120  git add README.md
+  121  git commit -m "first commit"
+  122  git branch -M main
+  123  git remote add origin https://github.com/Nilanchala2001/sbi_loans_apps.git
+  124  git push -u origin main
+  125  echo "# sbi_loans_apps" >> README.md
+  126  git init
+  127  git add README.md
+  128  git commit -m "first commit"
+  129  git branch -M main
+  130  git remote add origin https://github.com/Nilanchala2001/sbi_loans_apps.git
+  131  git push -u origin main
+  132  touch f1.txt
+  133  git status
+  134  git add f1.txt
+  135  git status
+  136  git commit -m "myfirstcommitepratice"
+  137  git status
+  138  git push 
+  139  echo "# pnb_loan_repo" >> README.md
+  140  git init
+  141  git add README.md
+  142  git commit -m "first commit"
+  143  git branch -M main
+  144  git remote add origin https://github.com/Nilanchala2001/pnb_loan_repo.git
+  145  git push -u origin main
+  146  touch f2.txt
+  147  git status
+  148  git add f2.txt
+  149  git status
+  150  git commit -m "mysecondcommite"
+  151  git push
+  152  echo "# test1" >> README.md
+  153  git init
+  154  git add README.md
+  155  git commit -m "first commit"
+  156  git branch -M main
+  157  git remote add origin https://github.com/Nilanchala2001/test1.git
+  158  git push -u origin main
+  159  touch f1.txt
+  160  git status
+  161  git add f1.txt
+  162  git status
+  163  git push
+  164  git commite -m "it is commite"
+  165  git push
+  166  echo "# test1" >> README.md
+  167  git init
+  168  git add README.md
+  169  git commit -m "first commit"
+  170  git branch -M main
+  171  git remote add origin https://github.com/Nilanchala2001/test1.git
+  172  git push -u origin main
+  173  echo "# first_app_dev" >> README.md
+  174  git init
+  175  git add README.md
+  176  git commit -m "first commit"
+  177  git branch -M main
+  178  git remote add origin https://github.com/Nilanchala2001/first_app_dev.git
+  179  git push -u origin main
+  180  touch n1.txt
+  181  git init
+  182  git status
+  183  git add
+  184  git add n1.txt
+  185  git status
+  186  git commite -m "nilanchala"
+  187  git push
+  188  git push
+  189  touch t1.txt
+  190  git status
+  191  echo "# dcb_loan_app" >> README.md
+  192  git init
+  193  git add README.md
+  194  git commit -m "first commit"
+  195  git branch -M main
+  196  git remote add origin https://github.com/Nilanchala2001/dcb_loan_app.git
+  197  git push -u origin main
+  198  touch t1.txt
+  199  git status
+  200  touch t2.txt
+  201  git status
+  202  git add .
+  203  git status
+  204  git commit -m 'bug-123 fix'
+  205  git push
+  206  git config --global user.name "Nilanchala"
+  207  git config --global user.email "nilanchalanahak97@gmail.com"
+  208  echo "# sbi_loans_apps" >> README.md
+  209  git init
+  210  git add README.md
+  211  git commit -m "first commit"
+  212  git branch -M main
+  213  git remote add origin https://github.com/Nilanchala2001/sbi_loans_apps.git
+  214  git push -u origin main
+  215  echo "# sbi_loans_apps" >> README.md
+  216  git init
+  217  git add README.md
+  218  git commit -m "first commit"
+  219  git branch -M main
+  220  git remote add origin https://github.com/Nilanchala2001/sbi_loans_apps.git
+  221  git push -u origin main
+  222  touch f1.txt
+  223  touch f2.txt
+  224  git status
+  225  git add .
+  226  git status
+  227  git commite -m 'bug-123 fix'
+  228  git push
+  229  echo "# College_Project" >> README.md
+  230  git init
+  231  git add README.md
+  232  git commit -m "first commit"
+  233  git branch -M main
+  234  git remote add origin https://github.com/Nilanchala2001/College_Project.git
+  235  git push -u origin main
+  236  git status
+  237  touch f1.txt
+  238  touch f2.txt
+  239  git status
+  240  git commite -m 'add'
+  241  git push
+  242  echo "# basic_project" >> README.md
+  243  git init
+  244  git add README.md
+  245  git commit -m "first commit"
+  246  git branch -M main
+  247  git remote add origin https://github.com/Nilanchala2001/basic_project.git
+  248  git push -u origin main
+  249  git remote -v
+  250  git remote remove origin
+  251  git remote add origin https://github.com/Nilanchala2001/basic_project.git
+  252  git push -u origin main
+  253  touch f1.txt
+  254  git status
+  255  git add f1.txt
+  256  git status
+  257  git commite -m 'oky'
+  258  git push
+  259  git rm f2.txt
+  260  git commit -m "Deleted f2.txt"
+  261  git push
+  262  touch f2.txt
+  263  git add f2.txt
+  264  git commite -m 'okay'
+  265  git push
+  266  git add f2.txt
+  267  git commit -m "Added f2.txt"
+  268  git push
+  269  git clone https://github.com/Nilanchala2001/basic_project.git
+  270  cd basic_project/
+  271  ls -l
+  272  git status
+  273  ls -l
+  274  touch f3.txt f4.txt f5.txt
+  275  ls -l
+  276  git status
+  277  git add f3.txt
+  278  git status
+  279  git commite -m "f3 added"
+  280  git push
+  281  git status
+  282  git commit -m "f3 file added"
+  283  git push
+  284  git status
+  285  git log
+  286  ssh -i "Devops_session.pem" ec2-user@ec2-13-126-252-133.ap-south-1.compute.amazonaws.com
+  287  ssh -i "Devops_session.pem" ec2-user@ec2-13-126-239-60.ap-south-1.compute.amazonaws.com
+  288  ssh -i "Devops_session.pem" ec2-user@ec2-13-126-252-133.ap-south-1.compute.amazonaws.com
+  289  ssh -i "Devops_session.pem" ec2-user@ec2-13-126-239-60.ap-south-1.compute.amazonaws.com
+  290  ssh -i "Devops_session.pem" ec2-user@ec2-13-126-252-133.ap-south-1.compute.amazonaws.com
+  291  git clone https://github.com/Nilanchala2001/basic_project.git
+  292  cd basic_project
+  293  git status
+  294  git status
+  295  git status
+  296  git restore f1.txt
+  297  git status
+  298  git status
+  299  git add f1.txt
+  300  git status
+  301  git restore --staged f1.txt
+  302  git status
+  303  git restore f1.txt
+  304  git status
+  305  git status
+  306  git add f1.txt
+  307  git status
+  308  git commit -m "f1 file is add"
+  309  git push
+  310  git log
+  311  git rm f3.txt
+  312  git status
+  313  git commit -m "f3 file delete"
+  314  git push
+  315  git status
+  316  git add f1.txt
+  317  git status
+  318  git commit -m "f1 file data update"
+  319  git push
+  320  git revert 
+  321  117f45d
+  322   
+  323  git revert 117f45d
+  324  git status
+  325  git push
+  326  git pull
+  327  history
+  328  history > my_commands.txt
+  329  history  my_commands.txt
+  330  history  my_commands.txt
+  331  history > my_commands.txt
