@@ -3,3 +3,7 @@ b=3
 c=a+b
 a=1
 
+//changes for story 131
+
+int i =10
+int j =90
